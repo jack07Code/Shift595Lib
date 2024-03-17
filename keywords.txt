@@ -1,0 +1,5 @@
+Shift595	KEYWORD1
+begin	KEYWORD2
+write	KEYWORD2
+reset	KEYWORD2
+outputState	KEYWORD2
