@@ -23,7 +23,7 @@ class Shift595 {
     int dis=0;
     bool is_rst_present=false;
     bool is_dis_present=false;
-}
+};
 
 #endif
 
